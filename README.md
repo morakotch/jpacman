@@ -5,7 +5,7 @@
 ![Build Status](https://github.com/morakotch/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
-![image](https://github.com/morakotch/jpacman/assets/6994431/626b8021-b261-4b8f-99eb-a55fcade7cf6)
+
 
 
 ## About
